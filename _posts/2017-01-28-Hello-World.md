@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Deploying WebSites with MSDeploy and MSBuild
 ---
 
-Hello world
+temp text
