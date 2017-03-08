@@ -1,0 +1,1 @@
+Set-WebConfiguration "/system.webServer/handlers/@AccessPolicy" -Value "Execute" -PSPath "IIS:/sites/SQLReplication"
